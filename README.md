@@ -1,7 +1,17 @@
 # README #
+3rd Year project done in Team Project class, in a group of 5 members. 
+The project consist in 3 parts:
+1. Mobile Application, developed in JavaScript with AngularJS using Ionic Framework.
+2. Web Server, developed in PHP.
+3. Lowest Budget Algorithm, developed in Java, this one was based on Genetic Algorithm.
+My Role in the project was on Mobile Application and on adapting the Genetic Algorithm.
+Mobile Application to calculate the lowest budget between cities for travelers. 
+
+APK Download: https://www.dropbox.com/s/f6jvz3nobgg67le/BackpackersMobile-debug-unaligned.apk?dl=0
+Video: https://www.youtube.com/watch?v=cCTAISHMuaA
 
 Backpackers app is an Web Mobile App developed using Ionic Framework.
-
+(First writed on Bitbucket as a private project now is open on github)
 ### Technologies ###
 
 * Ionic Framework
